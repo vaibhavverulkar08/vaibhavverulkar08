@@ -1,5 +1,5 @@
 
-👋 Hello there! I'm @vaibhavverulkar08, a passionate Manual & Automation Tester 🕵️‍♂️ with a strong love for all things testing and quality assurance. 
+👋 Hello there! I'm Vaibhav, a passionate Manual & Automation Tester 🕵️‍♂️ with a strong love for all things testing and quality assurance. 
 
 🚀 My areas of expertise include:
 
