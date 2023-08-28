@@ -1,26 +1,27 @@
 
-👋 Hello there! I'm Vaibhav, a passionate Manual & Automation Tester 🕵️‍♂️ with a strong love for all things testing and quality assurance. 
+👋 Hello there! I'm Vaibhav Verulkar, and I am passionate about programming & writing code.
+Software Testing Intern in Manual & Automation 🕵️‍♂️ with a strong love for all things testing and quality assurance. 
+
 
 🚀 My areas of expertise include:
+
+- Hands-on Knowledge of C, C++, and Java programming Languages.
+  
+- Knowledge in Web Services, Rest Assured Framework.
+  
+- Hands-on practice in API Testing using the Postman Tool.
 
 - Manual Testing: I excel in creating comprehensive test plans, executing test cases, and identifying software defects with a keen eye for detail. Ensuring that every feature meets the specified requirements is my top priority.
 
 - Test Automation: I'm proficient in various test automation frameworks and tools, such as Selenium Webdriver, Appium, etc. Harnessing the power of automation to increase test coverage and efficiency is what drives me.
 
-- Basic Knowledge of C, C++ ,Java programming Languages.
-  
-- Knowledge in Web Services , Rest Assured Framkework.
-  
-- Hands on Practiced in API Testing using Postman Tool.
-
-
-📈 Continuous learning and improvement are the cornerstones of my approach to testing. I'm always on the lookout for emerging testing trends and technologies to stay at the forefront of the industry.
+📈 Continuous learning and improvement are the cornerstones of my approach to testing. I'm always on looking for emerging testing trends and technologies to stay at the forefront of the industry.
 
 📫 Feel free to reach out to me.
 
 Let's connect and discuss all things testing!
 
-Happy testing! 😄🚀
+Happy Coding & testing! 😄🚀
 
 <!---
 vaibhavverulkar08/vaibhavverulkar08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
