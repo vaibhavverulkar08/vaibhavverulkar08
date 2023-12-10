@@ -9,6 +9,8 @@ Software Testing Intern in Manual & Automation 🕵️‍♂️ with a strong lo
   
 - Knowledge in Web Services, Rest Assured Framework.
   
+- Frontend skills: HTML ,CSS Javascript , react. 
+  
 - Hands-on practice in API Testing using the Postman Tool.
 
 - Manual Testing: I excel in creating comprehensive test plans, executing test cases, and identifying software defects with a keen eye for detail. Ensuring that every feature meets the specified requirements is my top priority.
