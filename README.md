@@ -1,6 +1,7 @@
 
 👋 Hello there! I'm Vaibhav Verulkar, and I am passionate about programming & writing code.
 Software Testing Intern in Manual & Automation 🕵️‍♂️ with a strong love for all things testing and quality assurance. 
+Recently ..Learning web Devlopment Technologies.
 
 
 🚀 My areas of expertise include:
