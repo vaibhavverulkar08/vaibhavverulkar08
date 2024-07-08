@@ -21,6 +21,9 @@ Recently ..Learning web Devlopment Technologies.
 📈 Continuous learning and improvement are the cornerstones of my approach to testing. I'm always on looking for emerging testing trends and technologies to stay at the forefront of the industry.
 
 📫 Feel free to reach out to me.
+My Deployed Website: 
+Blogging Website: https://learnifyhub.netlify.app/
+My Portfolio Website : https://vaibhav-myportfolio.netlify.app/
 
 Let's connect and discuss all things testing!
 
