@@ -8,8 +8,8 @@ Software Testing Intern experience in Manual & Automation 🕵️‍♂️ with 
   
 - Knowledge in Web Services, Rest Assured Framework.
   
-- Frontend skills: HTML ,CSS Javascript , react.
-- Backend Skills: Node , Express.
+- Frontend skills: HTML ,CSS Javascript, React.
+- Backend Skills: Sprong-boot,HIbernate,Node JS , Express.
   
 - Hands-on practice in API Develpments & Testing using the Postman Tool.
 
@@ -21,12 +21,12 @@ Software Testing Intern experience in Manual & Automation 🕵️‍♂️ with 
 I'm always on looking for emerging testing trends and technologies to stay at the forefront of the industry.
 
 My Deployed Website: 
-Blogging Website: https://learnifyhub.netlify.app/
+Personal Website: For Learning Purpose - Version1 realseed on netlify app : https://learnifyhub.netlify.app/
 My Portfolio Website : https://vaibhav-myportfolio.netlify.app/
 
-Looking for an entry-level software engineering or testing position. Open to opportunities. Feel free to download my resume here:
-
-Resume: https://drive.google.com/file/d/1uixa6bZzpHXXmuWW2mnoroaA39GM8wL6/view 
+Actively seeking job opprtunities as QA testing Engineer or Software Development role position. Open to opportunities. 
+Feel free to download my resume here:
+Resume: https://drive.google.com/file/d/12J432P-MRvKXkyzdvI9W2e9NZ9Qe3vPC/view 
 
 📫 Feel free to reach out to me.
 
