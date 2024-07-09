@@ -30,7 +30,7 @@ Resume: https://drive.google.com/file/d/1uixa6bZzpHXXmuWW2mnoroaA39GM8wL6/view
 
 📫 Feel free to reach out to me.
 
-Let's connect and discuss all things testing!
+Let's connect on LinkedIn: https://www.linkedin.com/in/vaibhav-v/
 
 Happy Coding & testing! 😄🚀
 <!---
