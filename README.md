@@ -17,12 +17,10 @@ I'm always on looking for emerging testing trends and technologies to stay at th
 
 My Deployed Website: 
 Personal Website: For Learning Purpose - Version1 realseed on netlify app : https://learnifyhub.netlify.app/
-My Portfolio Website : https://vaibhav-myportfolio.netlify.app/
 
 Actively seeking job opprtunities as QA - Automation testing Engineer or Software Development role position. Open to opportunities. 
 Feel free to download my resume here:
-Resume: https://drive.google.com/file/d/1x7u5LXO92BZuaNrJKfGJnZ_h9fhdshQW/view
-
+Resume: https://drive.google.com/file/d/10GUU_XOOEC03xl-gIoNrKeU2TcAsC7HJ/view?usp=sharing
 📫 Feel free to reach out to me.
 
 Let's connect on LinkedIn: https://www.linkedin.com/in/vaibhav-v/
